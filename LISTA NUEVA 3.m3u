@@ -1,0 +1,1276 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ECUADOR | RTU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_rtu.jpg/120px-Logo_rtu.jpg" group-title="ECUADOR", ECUADOR | RTU
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/418934.ts
+
+#EXTINF:-1 tvg-id="Canal del Futbol HD (S)" tvg-logo="https://i.ibb.co/fQ2ZKjW/ecdf.png" group-title="ECUADOR", Canal del Futbol HD (S)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2363.ts
+
+#EXTINF:-1 tvg-id="El Canal Del Futbol" tvg-logo="https://i.ibb.co/fQ2ZKjW/ecdf.png" group-title="ECUADOR", Canal del Futbol HD (D)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2364.ts
+
+#EXTINF:-1 tvg-id="Canal del Futbol SD" tvg-logo="https://i.ibb.co/fQ2ZKjW/ecdf.png" group-title="ECUADOR", Canal del Futbol SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2365.ts
+
+#EXTINF:-1 tvg-id="SPOEQ" tvg-logo="https://i.ibb.co/j4ysqzR/dsports.png" group-title="ECUADOR", Directv Sports FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2366.ts
+
+#EXTINF:-1 tvg-id="SPOEQ" tvg-logo="https://i.ibb.co/j4ysqzR/dsports.png" group-title="ECUADOR", Directv Sports HD (DTV)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2367.ts
+
+#EXTINF:-1 tvg-id="SPOEQ" tvg-logo="https://i.ibb.co/j4ysqzR/dsports.png" group-title="ECUADOR", Directv Sports SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2368.ts
+
+#EXTINF:-1 tvg-id="UNOGUAY" tvg-logo="https://i.ibb.co/6FrC02b/Imagen-de-Whats-App-2024-03-29-a-las-22-29-12-b61c20d1.jpg" group-title="ECUADOR", ESPN EXTRA (STAR+)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2379.ts
+
+#EXTINF:-1 tvg-id="Canela TV" tvg-logo="https://i.ibb.co/S0mgwLQ/canelatv.png" group-title="ECUADOR", Canela TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2381.ts
+
+#EXTINF:-1 tvg-id="ECUTV" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR", Ecuador TV FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2382.ts
+
+#EXTINF:-1 tvg-id="ECUTV" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR", Ecuador TV HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2383.ts
+
+#EXTINF:-1 tvg-id="ECUTV" tvg-logo="https://i.ibb.co/hBJF8KW/ecuadortv7.png" group-title="ECUADOR", Ecuador TV SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2384.ts
+
+#EXTINF:-1 tvg-id="GAMAV" tvg-logo="https://i.ibb.co/QXzGGLs/gamavison.png" group-title="ECUADOR", Gamavision FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2385.ts
+
+#EXTINF:-1 tvg-id="Gamavision" tvg-logo="https://i.ibb.co/QXzGGLs/gamavison.png" group-title="ECUADOR", Gamavision HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2386.ts
+
+#EXTINF:-1 tvg-id="GAMAV" tvg-logo="https://i.ibb.co/QXzGGLs/gamavison.png" group-title="ECUADOR", Gamavision SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2387.ts
+
+#EXTINF:-1 tvg-id="OROMAR" tvg-logo="https://i.ibb.co/QFYXSRx/oromarv.png" group-title="ECUADOR", Oromar TV FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2388.ts
+
+#EXTINF:-1 tvg-id="OROMAR" tvg-logo="https://i.ibb.co/QFYXSRx/oromarv.png" group-title="ECUADOR", Oromar TV HD ©
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2389.ts
+
+#EXTINF:-1 tvg-id="OROMAR" tvg-logo="https://i.ibb.co/QFYXSRx/oromarv.png" group-title="ECUADOR", Oromar TV SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2390.ts
+
+#EXTINF:-1 tvg-id="RTSECHD" tvg-logo="https://i.ibb.co/3Fv90fP/rts.png" group-title="ECUADOR", RTS FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2391.ts
+
+#EXTINF:-1 tvg-id="RTSECHD" tvg-logo="https://i.ibb.co/3Fv90fP/rts.png" group-title="ECUADOR", RTS HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2392.ts
+
+#EXTINF:-1 tvg-id="RTS SD (DTV)" tvg-logo="https://i.ibb.co/3Fv90fP/rts.png" group-title="ECUADOR", RTS SD (DTV)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2393.ts
+
+#EXTINF:-1 tvg-id="TC TELEVISION" tvg-logo="https://i.ibb.co/HxdM8rT/tc.png" group-title="ECUADOR", TC Television OP1 (S)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2395.ts
+
+#EXTINF:-1 tvg-id="TC TELEVISION" tvg-logo="https://i.ibb.co/HxdM8rT/tc.png" group-title="ECUADOR", TC Television OP2
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2396.ts
+
+#EXTINF:-1 tvg-id="TCTVHD" tvg-logo="https://i.ibb.co/HxdM8rT/tc.png" group-title="ECUADOR", TC Television OP3
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2397.ts
+
+#EXTINF:-1 tvg-id="AMAZQHD" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR", ECUADOR | Teleamazonas Sierra
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2398.ts
+
+#EXTINF:-1 tvg-id="AMAZQHD" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR", Teleamazonas [Quito] HD Directo
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2399.ts
+
+#EXTINF:-1 tvg-id="AMAZQHD" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR", Teleamazonas [Quito] HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2400.ts
+
+#EXTINF:-1 tvg-id="TELEAMAZONAS" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR", Teleamazonas [Gquil] FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2401.ts
+
+#EXTINF:-1 tvg-id="TELEAMAZONAS" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR", Teleamazonas [Gquil] HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2402.ts
+
+#EXTINF:-1 tvg-id="TELEAMAZONAS" tvg-logo="https://i.ibb.co/Vxc6zry/teleamazonas.png" group-title="ECUADOR", Teleamazonas [Gquil] SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2403.ts
+
+#EXTINF:-1 tvg-id="TVC FHD" tvg-logo="https://i.ibb.co/K25Dkmz/tvc.png" group-title="ECUADOR", TVC FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2404.ts
+
+#EXTINF:-1 tvg-id="TVC HD" tvg-logo="https://i.ibb.co/K25Dkmz/tvc.png" group-title="ECUADOR", TVC HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2405.ts
+
+#EXTINF:-1 tvg-id="TVC SD" tvg-logo="https://i.ibb.co/K25Dkmz/tvc.png" group-title="ECUADOR", TVC SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2406.ts
+
+#EXTINF:-1 tvg-id="Ecuavisa Sierra" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR", Ecuavisa Sierra
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2407.ts
+
+#EXTINF:-1 tvg-id="Ecuavisa Quito HD" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR", Ecuavisa Quito HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2408.ts
+
+#EXTINF:-1 tvg-id="ECUAVISA NACIONAL" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR", Ecuavisa [Gquil] HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2410.ts
+
+#EXTINF:-1 tvg-id="182dtv.ec" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR", Ecuavisa [Gquil] HD (D)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2411.ts
+
+#EXTINF:-1 tvg-id="ECUAVISA NACIONAL" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR", Ecuavisa [Gquil] SD (S)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2412.ts
+
+#EXTINF:-1 tvg-id="ECUAVI" tvg-logo="https://i.ibb.co/1KRZCCF/ecuavisainter.png" group-title="ECUADOR", Ecuavisa Internacional FHD (S)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2413.ts
+
+#EXTINF:-1 tvg-id="ECUAVI" tvg-logo="https://i.ibb.co/1KRZCCF/ecuavisainter.png" group-title="ECUADOR", Ecuavisa Internacional SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2414.ts
+
+#EXTINF:-1 tvg-id="Ecuavisa [Quito] FHD" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR", Ecuavisa [Quito] FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2415.ts
+
+#EXTINF:-1 tvg-id="ECUAVISA NACIONAL" tvg-logo="https://i.ibb.co/xDQ0sKg/ecuavisa.png" group-title="ECUADOR", Ecuavisa [Quito] HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2416.ts
+
+#EXTINF:-1 tvg-id="Ecotel TV" tvg-logo="https://i.postimg.cc/kGBqF8ct/unnamed.png" group-title="ECUADOR", Ecotel TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2431.ts
+
+#EXTINF:-1 tvg-id="TELERAMA" tvg-logo="https://i.ibb.co/fF7jykL/telerama.png" group-title="ECUADOR", TELERAMA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/85730.ts
+
+#EXTINF:-1 tvg-id="TU RADIO 88.9" tvg-logo="https://i.ibb.co/pjGbt62/turadio.png" group-title="ECUADOR", TU RADIO 88.9
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/146167.ts
+
+#EXTINF:-1 tvg-id="ECUTV" tvg-logo="https://i.ibb.co/6FrC02b/Imagen-de-Whats-App-2024-03-29-a-las-22-29-12-b61c20d1.jpg" group-title="ECUADOR", ESPN EXTRA CNT ECUADOR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/2378.ts
+
+#EXTINF:-1 tvg-id="TC Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TC_TV_INTERNACIONAL.png" group-title="ECUADOR", TC Internacional
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/529695.ts
+
+#EXTINF:-1 tvg-id="Radio Canela" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102207g.png" group-title="ECUADOR", Radio Canela
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/536672.ts
+
+#EXTINF:-1 tvg-id="UNSION" tvg-logo="noimage.png" group-title="ECUADOR", UNSION
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/589568.ts
+
+#EXTINF:-1 tvg-id="AUSTRAL" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="ECUADOR", AUSTRAL
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/589569.ts
+
+#EXTINF:-1 tvg-id="Voz y Tv" tvg-logo="https://www.vosytv.com/wp-content/uploads/2020/06/logovox1.png" group-title="ECUADOR", Voz y Tv
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/765811.ts
+
+#EXTINF:-1 tvg-id="Majestad TV" tvg-logo="https://majestadtv.ec/wp-content/uploads/2022/05/cropped-Majestad-Television-icon-270x270.png" group-title="ECUADOR", Majestad TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/765991.ts
+
+#EXTINF:-1 tvg-id="Bloom tv" tvg-logo="https://bloomradiotv.com/wp-content/uploads/2022/05/1Mesa-de-trabajo-15.png" group-title="ECUADOR", Bloom tv
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/765992.ts
+
+#EXTINF:-1 tvg-id="Manavisión" tvg-logo="https://i.postimg.cc/bNYBw6nQ/images-q-tbn-ANd9Gc-TAu-T-0RBd-UF1o-Ohin-WGe-Sw-Q7v4KQcm-Qps-K9Q-s.png" group-title="ECUADOR", Manavisión
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/765993.ts
+
+#EXTINF:-1 tvg-id="Latacunga TV" tvg-logo="https://assets.teleon.tv/180_webp/latacunga-tv-ec.webp" group-title="ECUADOR", Latacunga TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/765994.ts
+
+#EXTINF:-1 tvg-id="Televisión Quevedeña" tvg-logo="https://i.postimg.cc/V6TLhDd8/images-q-tbn-ANd9Gc-SSt8n80ojzo-Sty-BOud2OE3KQg-TIIv-C74A-Tw-s.jpg" group-title="ECUADOR", Televisión Quevedeña
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/765995.ts
+
+#EXTINF:-1 tvg-id="KANALDL" tvg-logo="https://i.ibb.co/MCzcqMx/KANALD.png" group-title="ENTRETENIMIENTO", Kanal D Drama
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/4693.ts
+
+#EXTINF:-1 tvg-id="UNIVISION TELENOVELAS HD" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="ENTRETENIMIENTO", UNIVISION TELENOVELAS HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/4778.ts
+
+#EXTINF:-1 tvg-id="RCN Novelas" tvg-logo="https://i.ibb.co/dW0RXN7/rcnnovelas.png" group-title="ENTRETENIMIENTO", RCN Novelas
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/13785.ts
+
+#EXTINF:-1 tvg-id="E! HD" tvg-logo="https://i.ibb.co/y0VcDzp/46576978uijfgcvgbc.png" group-title="ENTRETENIMIENTO", E! HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/31960.ts
+
+#EXTINF:-1 tvg-id="TLC HD | AR" tvg-logo="https://i.ibb.co/QC0WwvW/45rwerwesdvctu7y8uhjbn3w.png" group-title="ENTRETENIMIENTO", TLC HD | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/46233.ts
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL | AR" tvg-logo="https://i.ibb.co/WWSPhwg/565rty6547yrtfgvb.png" group-title="ENTRETENIMIENTO", COMEDY CENTRAL | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79058.ts
+
+#EXTINF:-1 tvg-id="El Gourmet" tvg-logo="https://i.ibb.co/gVTnyDm/GOUE.png" group-title="ENTRETENIMIENTO", El Gourmet
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79060.ts
+
+#EXTINF:-1 tvg-id="EL GOURMET | AR HD" tvg-logo="https://i.ibb.co/gVTnyDm/GOUE.png" group-title="ENTRETENIMIENTO", EL GOURMET | AR HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79061.ts
+
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="https://i.ibb.co/tHVVvrx/3454654775ghffdfrsds.png" group-title="ENTRETENIMIENTO", FOOD NETWORK
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79063.ts
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.ibb.co/QC0WwvW/45rwerwesdvctu7y8uhjbn3w.png" group-title="ENTRETENIMIENTO", TLC
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79065.ts
+
+#EXTINF:-1 tvg-id="NBC UNIVERSO" tvg-logo="https://i.ibb.co/wpxLdLn/NBC-universoeast.png" group-title="ENTRETENIMIENTO", NBC UNIVERSO
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79070.ts
+
+#EXTINF:-1 tvg-id="AdultSwim.ar" tvg-logo="noimage.png" group-title="ENTRETENIMIENTO", ADULT SWIM FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79072.ts
+
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="https://i.ibb.co/xHqP33t/PASIOIENS.png" group-title="ENTRETENIMIENTO", PASIONES FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79073.ts
+
+#EXTINF:-1 tvg-id="PASIONES.co" tvg-logo="https://i.ibb.co/xHqP33t/PASIOIENS.png" group-title="ENTRETENIMIENTO", PASIONES HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79074.ts
+
+#EXTINF:-1 tvg-id="Tlenovelas HD" tvg-logo="https://i.ibb.co/7vLtYKb/TLNSDS.png" group-title="ENTRETENIMIENTO", Tlenovelas HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79075.ts
+
+#EXTINF:-1 tvg-id="Las Estrellas.co" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="ENTRETENIMIENTO", LAS ESTRELLAS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79078.ts
+
+#EXTINF:-1 tvg-id="LAS ESTRELLAS HD" tvg-logo="https://i.ibb.co/vcHMB8F/ESTRE.png" group-title="ENTRETENIMIENTO", LAS ESTRELLAS HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/79079.ts
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-logo="https://i.ibb.co/x366fRH/432qwert43-TGRFDGH6-R5-RTYHFGVC.png" group-title="ENTRETENIMIENTO", Lifetime HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/113864.ts
+
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-logo="https://i.ibb.co/x366fRH/432qwert43-TGRFDGH6-R5-RTYHFGVC.png" group-title="ENTRETENIMIENTO", Lifetime HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/113865.ts
+
+#EXTINF:-1 tvg-id="TLC HD MX" tvg-logo="https://i.ibb.co/QC0WwvW/45rwerwesdvctu7y8uhjbn3w.png" group-title="ENTRETENIMIENTO", TLC HD MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/161518.ts
+
+#EXTINF:-1 tvg-id="Kanal D Drama" tvg-logo="https://i.ibb.co/MCzcqMx/KANALD.png" group-title="ENTRETENIMIENTO", Kanal D Drama
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/96200.ts
+
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-logo="https://i.ibb.co/vmj4F7G/DVCOME.png" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/122586.ts
+
+#EXTINF:-1 tvg-id="UNIVISION TELENOVELAS" tvg-logo="https://i.ibb.co/2PzKmMN/TLNOVE.png" group-title="ENTRETENIMIENTO", UNIVISION TELENOVELAS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/175740.ts
+
+#EXTINF:-1 tvg-id="Antena 3 Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="ENTRETENIMIENTO", Antena 3 Latinoamerica
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/326183.ts
+
+#EXTINF:-1 tvg-id="TLNOVELAS | AR" tvg-logo="https://i.postimg.cc/ZnJ9xntT/Tlnovelas-logo-2021.png" group-title="ENTRETENIMIENTO", TLNOVELAS | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/326413.ts
+
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-logo="https://i.postimg.cc/tRNbSKHV/Dise-o-sin-t-tulo-9.png" group-title="DEPORTES PREMIUM", ESPN DEPORTES
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591971.ts
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM", ESPN 1 HD | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591974.ts
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM", ESPN 1 FHD | ARG
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591975.ts
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM", ESPN 1 CO FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591976.ts
+
+#EXTINF:-1 tvg-id="ESPN4.cl" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM", ESPN 1 CH HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591977.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM", ESPN 1 MEX HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591978.ts
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122217.jpg" group-title="DEPORTES PREMIUM", ESPN 1 MEX FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591979.ts
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM", ESPN 2 HD | ARG
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591980.ts
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM", ESPN 2 ARG | FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591981.ts
+
+#EXTINF:-1 tvg-id="ESPN 2 HD.co" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM", ESPN 2 CO
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591982.ts
+
+#EXTINF:-1 tvg-id="ESPN 2 | CH" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM", ESPN 2 | CH
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591983.ts
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM", ESPN 2 HD | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591984.ts
+
+#EXTINF:-1 tvg-id="ESPN 2 FHD | MX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122242.jpg" group-title="DEPORTES PREMIUM", ESPN 2 FHD | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591985.ts
+
+#EXTINF:-1 tvg-id="ESPN 3 HD | AR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg" group-title="DEPORTES PREMIUM", ESPN 3 HD | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591986.ts
+
+#EXTINF:-1 tvg-id="ESPN 3 FHD | ARG" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg" group-title="DEPORTES PREMIUM", ESPN 3 FHD | ARG
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591987.ts
+
+#EXTINF:-1 tvg-id="ESPN 3 HD | MEX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg" group-title="DEPORTES PREMIUM", ESPN 3 HD | MEX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591988.ts
+
+#EXTINF:-1 tvg-id="ESPN 3 FHD | MX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122257.jpg" group-title="DEPORTES PREMIUM", ESPN 3 FHD | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591989.ts
+
+#EXTINF:-1 tvg-id="ESPN 4 | SUR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122275.jpg" group-title="DEPORTES PREMIUM", ESPN 4 | SUR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591990.ts
+
+#EXTINF:-1 tvg-id="ESPN 4 MX" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122275.jpg" group-title="DEPORTES PREMIUM", ESPN 4 MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591991.ts
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg" group-title="DEPORTES PREMIUM", ESPN 5
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591992.ts
+
+#EXTINF:-1 tvg-id="ESPN 5 SUR" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg" group-title="DEPORTES PREMIUM", ESPN 5 SUR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591993.ts
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122309.jpg" group-title="DEPORTES PREMIUM", ESPN 5
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591994.ts
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122324.jpg" group-title="DEPORTES PREMIUM", ESPN 6
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591995.ts
+
+#EXTINF:-1 tvg-id="ESPN 7 HD" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1708122338.jpg" group-title="DEPORTES PREMIUM", ESPN 7 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591996.ts
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM | AR" tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_05/large_es.png.aa439426a82c10606ef062d67bd99b89.png" group-title="DEPORTES PREMIUM", ESPN PREMIUM | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591997.ts
+
+#EXTINF:-1 tvg-id="ESPN PREMIUM | CH" tvg-logo="https://i.postimg.cc/RFfwQLzc/ESP-NPREM.png" group-title="DEPORTES PREMIUM", ESPN PREMIUM | CH
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591998.ts
+
+#EXTINF:-1 tvg-id="FOX DEPORTES" tvg-logo="https://i.postimg.cc/YqVqMKFM/FOX-Deportes-logo.png" group-title="DEPORTES PREMIUM", FOX DEPORTES
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/591999.ts
+
+#EXTINF:-1 tvg-id="FOX SPORT | AR" tvg-logo="https://i.postimg.cc/Qdt5n33x/FO-X.png" group-title="DEPORTES PREMIUM", FOX SPORT | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592000.ts
+
+#EXTINF:-1 tvg-id="FOX SPORT FHD | AR" tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.6d03e77ebf8b83b3d2abfe501322ccb2.png" group-title="DEPORTES PREMIUM", FOX SPORT FHD | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592001.ts
+
+#EXTINF:-1 tvg-id="FOX SPORT 1 | MX" tvg-logo="https://i.postimg.cc/PqbtWCRv/Fox-SP.png" group-title="DEPORTES PREMIUM", FOX SPORT 1 | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592002.ts
+
+#EXTINF:-1 tvg-id="FOX SPORT 1 MX  FHD" tvg-logo="https://i.postimg.cc/PqbtWCRv/Fox-SP.png" group-title="DEPORTES PREMIUM", FOX SPORT 1 MX  FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592003.ts
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0d1w4a1746093306.png" group-title="DEPORTES PREMIUM", FOX SPORTS 2 | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592004.ts
+
+#EXTINF:-1 tvg-id="FOX SPORT 2 FHD | ARG" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0d1w4a1746093306.png" group-title="DEPORTES PREMIUM", FOX SPORT 2 FHD | ARG
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592005.ts
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 | MX" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0d1w4a1746093306.png" group-title="DEPORTES PREMIUM", FOX SPORTS 2 | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592006.ts
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 FHD | MX" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0d1w4a1746093306.png" group-title="DEPORTES PREMIUM", FOX SPORTS 2 FHD | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592007.ts
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3 HD | ARG" tvg-logo="https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg" group-title="DEPORTES PREMIUM", FOX SPORTS 3 HD | ARG
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592008.ts
+
+#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-logo="https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg" group-title="DEPORTES PREMIUM", FOX SPORTS 3 FHD | ARG
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592009.ts
+
+#EXTINF:-1 tvg-id="FOX SPORT 3 HD | MX" tvg-logo="https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg" group-title="DEPORTES PREMIUM", FOX SPORT 3 HD | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592010.ts
+
+#EXTINF:-1 tvg-id="FOX SPORTS 3 FHD | MX" tvg-logo="https://i.pinimg.com/564x/cf/19/88/cf1988d1f848ee79db3057daa167747c.jpg" group-title="DEPORTES PREMIUM", FOX SPORTS 3 FHD | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592011.ts
+
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM | MX" tvg-logo="https://i.blogs.es/f8e3f2/foxpre/450_1000.jpg" group-title="DEPORTES PREMIUM", FOX SPORTS PREMIUM | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592012.ts
+
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", BEIN SPORTS Ñ
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592013.ts
+
+#EXTINF:-1 tvg-id="BEIN SPORTS XTRA Ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES PREMIUM", BEIN SPORTS XTRA Ñ
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592014.ts
+
+#EXTINF:-1 tvg-id="TUDN HD | MX" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", TUDN HD | MX
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592016.ts
+
+#EXTINF:-1 tvg-id="TUDN MX FHD" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", TUDN MX FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592017.ts
+
+#EXTINF:-1 tvg-id="TUDN HD | USA" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", TUDN HD | USA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592018.ts
+
+#EXTINF:-1 tvg-id="TUDN HD | USA |" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", TUDN HD | USA |
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592019.ts
+
+#EXTINF:-1 tvg-id="TNT SPORT AR" tvg-logo="https://i.postimg.cc/tJ02zqWP/descarga-(16).png" group-title="DEPORTES PREMIUM", TNT SPORT AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592031.ts
+
+#EXTINF:-1 tvg-id="TNT SPORT | CH" tvg-logo="https://1000logos.net/wp-content/uploads/2025/08/TNT-Sports-Logo.jpg" group-title="DEPORTES PREMIUM", TNT SPORT | CH
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592032.ts
+
+#EXTINF:-1 tvg-id="TNT PREMIUM | CH" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", TNT PREMIUM | CH
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592033.ts
+
+#EXTINF:-1 tvg-id="CLARO SPORT" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", CLARO SPORT
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592034.ts
+
+#EXTINF:-1 tvg-id="CLARO SPORTS 2" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="DEPORTES PREMIUM", CLARO SPORTS 2
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592035.ts
+
+#EXTINF:-1 tvg-id="DSPORTS | AR" tvg-logo="https://ipuntotv.com/IMAGES/Dsports-logo.jpg" group-title="DEPORTES PREMIUM", DSPORTS | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592036.ts
+
+#EXTINF:-1 tvg-id="DSPORTS  | CO" tvg-logo="https://ipuntotv.com/IMAGES/Dsports-logo.jpg" group-title="DEPORTES PREMIUM", DSPORTS  | CO
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592037.ts
+
+#EXTINF:-1 tvg-id="DSPORTS 2" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", DSPORTS 2
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592038.ts
+
+#EXTINF:-1 tvg-id="DSPORTS+" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", DSPORTS+
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592039.ts
+
+#EXTINF:-1 tvg-id="SKY SPORTS | BUNDESLIGA" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY SPORTS | BUNDESLIGA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592040.ts
+
+#EXTINF:-1 tvg-id="SKY SPORTS | LA LIGA" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", SKY SPORTS | LA LIGA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592041.ts
+
+#EXTINF:-1 tvg-id="SKY SPORT | PREMIER LEAGUE" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", SKY SPORT | PREMIER LEAGUE
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592042.ts
+
+#EXTINF:-1 tvg-id="AYM SPORTS" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo_alter.png" group-title="DEPORTES PREMIUM", AYM SPORTS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592044.ts
+
+#EXTINF:-1 tvg-id="UFC Network USA" tvg-logo="https://i.postimg.cc/FHdNqDkv/uf.png" group-title="DEPORTES PREMIUM", UFC Network USA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592045.ts
+
+#EXTINF:-1 tvg-id="TITAN CHANNEL HD" tvg-logo="https://expoispperu.com/wp-content/uploads/2022/03/tchchch.jpg" group-title="DEPORTES PREMIUM", TITAN CHANNEL HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/722792.ts
+
+#EXTINF:-1 tvg-id="FOX ONE" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/592015.ts
+
+#EXTINF:-1 tvg-id="FOX ONE" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/730392.ts
+
+#EXTINF:-1 tvg-id="FOX ONE 2 | EVENTOS" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE 2 | EVENTOS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/730391.ts
+
+#EXTINF:-1 tvg-id="FOX ONE 3 | EVENTOS" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE 3 | EVENTOS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/730390.ts
+
+#EXTINF:-1 tvg-id="FOX ONE 4 | EVENTOS" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE 4 | EVENTOS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/730389.ts
+
+#EXTINF:-1 tvg-id="FOX ONE 5 | EVENTOS" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE 5 | EVENTOS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/730388.ts
+
+#EXTINF:-1 tvg-id="FOX ONE 6 | EVENTOS" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE 6 | EVENTOS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/730387.ts
+
+#EXTINF:-1 tvg-id="FOX ONE 7 | EVENTOS" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE 7 | EVENTOS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/730386.ts
+
+#EXTINF:-1 tvg-id="FOX ONE 8 | EVENTOS" tvg-logo="noimage.png" group-title="DEPORTES PREMIUM", FOX ONE 8 | EVENTOS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/730385.ts
+
+#EXTINF:-1 tvg-id="SKY EVENTO 1" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY EVENTO 1
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772275.ts
+
+#EXTINF:-1 tvg-id="SKY EVENTO 2" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY EVENTO 2
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772276.ts
+
+#EXTINF:-1 tvg-id="SKY ONE" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY ONE
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772277.ts
+
+#EXTINF:-1 tvg-id="SKY SPORTS" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY SPORTS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772278.ts
+
+#EXTINF:-1 tvg-id="SKY SPORTS 2" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY SPORTS 2
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772279.ts
+
+#EXTINF:-1 tvg-id="SKY SP0RTS 16" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY SP0RTS 16
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772280.ts
+
+#EXTINF:-1 tvg-id="SKY SPORTS | BUNDESLIGA" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY SPORTS | BUNDESLIGA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772281.ts
+
+#EXTINF:-1 tvg-id="SKY SPORTS | LA LIGA" tvg-logo="https://i.postimg.cc/pXBxg3ks/3840px-Sky-Sport-Logo-2026-svg.png" group-title="DEPORTES PREMIUM", SKY SPORTS | LA LIGA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772282.ts
+
+#EXTINF:-1 tvg-id="5TV" tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="Argentina", 5TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712700.ts
+
+#EXTINF:-1 tvg-id="A24 | AR" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina", A24 | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712701.ts
+
+#EXTINF:-1 tvg-id="A24 FHD" tvg-logo="https://i.postimg.cc/VL2YNmHh/images-q-tbn-ANd9Gc-T8yf-XBu-Qmon9WVy3ETX9fuq0w4U8Hvq391YA-s.png" group-title="Argentina", A24 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712702.ts
+
+#EXTINF:-1 tvg-id="America TV | AR" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina", America TV | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712703.ts
+
+#EXTINF:-1 tvg-id="America TV FHD" tvg-logo="https://i.postimg.cc/k4MCH4Dh/America-TV-(Nuevo-logo-Junio-2020).png" group-title="Argentina", America TV FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712704.ts
+
+#EXTINF:-1 tvg-id="C5N FHD| AR" tvg-logo="https://i.postimg.cc/gjQPrH4v/C5N-Logo-2015.png" group-title="Argentina", C5N FHD| AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712705.ts
+
+#EXTINF:-1 tvg-id="CRONICA" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina", CRONICA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712706.ts
+
+#EXTINF:-1 tvg-id="Crónica TV  HD| AR" tvg-logo="https://i.postimg.cc/cJ0GKH76/Cronica-TV-logotipo-(2016).png" group-title="Argentina", Crónica TV  HD| AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712707.ts
+
+#EXTINF:-1 tvg-id="El Nueve" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina", El Nueve
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712708.ts
+
+#EXTINF:-1 tvg-id="El Nueve HD" tvg-logo="https://i.postimg.cc/MT3CrmCs/Canal-9-ba-logo.png" group-title="Argentina", El Nueve HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712709.ts
+
+#EXTINF:-1 tvg-id="El Trece" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina", El Trece
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712710.ts
+
+#EXTINF:-1 tvg-id="El Trece FHD" tvg-logo="https://i.postimg.cc/HWRGw34L/Logo-Canal-13-200-8.png" group-title="Argentina", El Trece FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712711.ts
+
+#EXTINF:-1 tvg-id="La Nación + | AR" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina", La Nación + | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712712.ts
+
+#EXTINF:-1 tvg-id="La Nación + HD" tvg-logo="https://i.postimg.cc/mZvLLTn0/f500x333-807353-831156-5050.jpg" group-title="Argentina", La Nación + HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712713.ts
+
+#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina", TELEFE
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712714.ts
+
+#EXTINF:-1 tvg-id="Telefe FHD" tvg-logo="https://i.postimg.cc/x8MSJbZX/330px-Telefe-(nuevo-logo).png" group-title="Argentina", Telefe FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712715.ts
+
+#EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina", TN Noticias
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712717.ts
+
+#EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://i.postimg.cc/tTnKwx9g/250px-TN-todo-noticias-logo-svg.png" group-title="Argentina", TN NOTICIAS
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712718.ts
+
+#EXTINF:-1 tvg-id="TV Publica" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina", TV Publica
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712719.ts
+
+#EXTINF:-1 tvg-id="TV Publica FHD" tvg-logo="https://i.postimg.cc/hPBkZvwY/1280px-TVP-Television-Publica-(2021)-svg.png" group-title="Argentina", TV Publica FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712720.ts
+
+#EXTINF:-1 tvg-id="ARGENTINISIMA" tvg-logo="https://i.postimg.cc/fbnqyrs4/latest-(20).png" group-title="Argentina", ARGENTINISIMA
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712721.ts
+
+#EXTINF:-1 tvg-id="Canal 13 La Rioja" tvg-logo="https://i.postimg.cc/WbxXYHh4/latest-(21).png" group-title="Argentina", Canal 13 La Rioja
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712723.ts
+
+#EXTINF:-1 tvg-id="Canal 26 | AR" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina", Canal 26 | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712724.ts
+
+#EXTINF:-1 tvg-id="Canal 26 FHD" tvg-logo="https://i.postimg.cc/3Rbg4kG3/images-q-tbn-ANd9Gc-Se0i-OYk-MVUv8b-RSmev324PVm-Iah3Lbnmk-a-A-s.png" group-title="Argentina", Canal 26 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712725.ts
+
+#EXTINF:-1 tvg-id="Canal 4 Posadas" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png" group-title="Argentina", Canal 4 Posadas
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712726.ts
+
+#EXTINF:-1 tvg-id="Canal 7 Jujuy" tvg-logo="noimage.png" group-title="Argentina", Canal 7 Jujuy
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712727.ts
+
+#EXTINF:-1 tvg-id="Canal 9 Litoral" tvg-logo="noimage.png" group-title="Argentina", Canal 9 Litoral
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712728.ts
+
+#EXTINF:-1 tvg-id="13 Max HD" tvg-logo="https://i.ibb.co/sbHJbrC/13maxhd.png" group-title="Argentina", 13 Max HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712730.ts
+
+#EXTINF:-1 tvg-id="CIUDAD MAGAZINE HD" tvg-logo="noimage.png" group-title="Argentina", CIUDAD MAGAZINE HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712732.ts
+
+#EXTINF:-1 tvg-id="5RTV Santa Fe" tvg-logo="https://i.ibb.co/W6xkB9w/santafe.png" group-title="Argentina", 5RTV Santa Fe
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712733.ts
+
+#EXTINF:-1 tvg-id="Multivision HD" tvg-logo="https://play-lh.googleusercontent.com/4KefEkBSbET6Imw1iLMrMd70mG4LP_5b6faSohDm6eKUipnx_ApRrQXAPMaLguA0eoI" group-title="Argentina", Multivision HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712734.ts
+
+#EXTINF:-1 tvg-id="Neo TV" tvg-logo="noimage.png" group-title="Argentina", Neo TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712735.ts
+
+#EXTINF:-1 tvg-id="NET TV" tvg-logo="noimage.png" group-title="Argentina", NET TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712736.ts
+
+#EXTINF:-1 tvg-id="Paka Paka HD" tvg-logo="https://i.postimg.cc/WbHjtTzQ/Paka-Paka-2025.png" group-title="Argentina", Paka Paka HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712737.ts
+
+#EXTINF:-1 tvg-id="RTN Neuquén" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online.png" group-title="Argentina", RTN Neuquén
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712739.ts
+
+#EXTINF:-1 tvg-id="Telemax" tvg-logo="noimage.png" group-title="Argentina", Telemax
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712740.ts
+
+#EXTINF:-1 tvg-id="Volver HD" tvg-logo="noimage.png" group-title="Argentina", Volver HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712741.ts
+
+#EXTINF:-1 tvg-id="Deportv | AR FHD" tvg-logo="noimage.png" group-title="Argentina", Deportv | AR FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712742.ts
+
+#EXTINF:-1 tvg-id="ESPN FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hdrkql1660762351.png" group-title="Argentina", ESPN FHD | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712743.ts
+
+#EXTINF:-1 tvg-id="ESPN 2  FHD | AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wcualh1660760950.png" group-title="Argentina", ESPN 2  FHD | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712744.ts
+
+#EXTINF:-1 tvg-id="ESPN 3 HD| AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wkdrnd1660760961.png" group-title="Argentina", ESPN 3 HD| AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712745.ts
+
+#EXTINF:-1 tvg-id="ESPN 4 HD | AR" tvg-logo="noimage.png" group-title="Argentina", ESPN 4 HD | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712746.ts
+
+#EXTINF:-1 tvg-id="ESPN Premium  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Argentina", ESPN Premium  | AR FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712747.ts
+
+#EXTINF:-1 tvg-id="Fox Sports | AR" tvg-logo="noimage.png" group-title="Argentina", Fox Sports | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712748.ts
+
+#EXTINF:-1 tvg-id="Fox Sports 2  | AR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Argentina", Fox Sports 2  | AR FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712749.ts
+
+#EXTINF:-1 tvg-id="Fox Sports 3  | AR FHD" tvg-logo="noimage.png" group-title="Argentina", Fox Sports 3  | AR FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712750.ts
+
+#EXTINF:-1 tvg-id="Garage TV" tvg-logo="noimage.png" group-title="Argentina", Garage TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712751.ts
+
+#EXTINF:-1 tvg-id="TNT Sports Premium" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina", TNT Sports Premium
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712752.ts
+
+#EXTINF:-1 tvg-id="TNT Sports Premium HD" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_03/large.TNTSportsCL.png.16208cc25cd2cc1c1270c36c2f44986a.png" group-title="Argentina", TNT Sports Premium HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712753.ts
+
+#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="noimage.png" group-title="Argentina", TyC Sports
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712754.ts
+
+#EXTINF:-1 tvg-id="TYC SPORTS HD" tvg-logo="noimage.png" group-title="Argentina", TYC SPORTS HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712755.ts
+
+#EXTINF:-1 tvg-id="DSPORTS 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Argentina", DSPORTS 1 ARG
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712756.ts
+
+#EXTINF:-1 tvg-id="DSPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="Argentina", DSPORTS 2 ARG
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/712757.ts
+
+#EXTINF:-1 tvg-id="DSPORTS +1 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Argentina", DSPORTS +1 AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/722195.ts
+
+#EXTINF:-1 tvg-id="TYC SPORTS INTERNACIONAL" tvg-logo="https://i.ibb.co/LS29sRf/tycsportinterna.png" group-title="Argentina", TYC SPORTS INTERNACIONAL
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/722820.ts
+
+#EXTINF:-1 tvg-id="Cine Ar | AR" tvg-logo="https://i.postimg.cc/KYBGyPKk/CINEARLogo.png" group-title="Argentina", Cine Ar | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772967.ts
+
+#EXTINF:-1 tvg-id="Allegro | AR HD" tvg-logo="noimage.png" group-title="Argentina", Allegro | AR HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772968.ts
+
+#EXTINF:-1 tvg-id="Canal 9 - Imagen del nordeste | AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="Argentina", Canal 9 - Imagen del nordeste | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/772969.ts
+
+#EXTINF:-1 tvg-id="CM - El Canal de la Música | AR" tvg-logo="https://www.cronica.com.ar/files/image/1528/1528011/6977e9ce59d53.png" group-title="Argentina", CM - El Canal de la Música | AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/773022.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Chowder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYIajTSlacI8LpqgqkvRW4oy5zl.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Chowder
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783224.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Clarence" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUWNAR3FlJDFRabvCBDNA3ryZJw.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Clarence
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783225.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Clifford the Big Red Dog" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im7xcLTMQFEh0bMXRD4rsdHImZN.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Clifford the Big Red Dog
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783226.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Contos Clássicos da Galinha Pintadinha" tvg-logo="https://i.scdn.co/image/ab67616d0000b27383f752c87495389dd4a6e23e" group-title="24/7 - ANIMACION", LAT-24/7: Contos Clássicos da Galinha Pintadinha
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783227.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Agallas el perro cobarde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GgsPD43JYdQT1IdwByItdIrr5f.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Agallas el perro cobarde
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783228.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Creciendo con la Gallina Pintadita" tvg-logo="https://mini.gallinapintadita.com/images/creciendo/creciendo-con-la-gallina-mobile.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Creciendo con la Gallina Pintadita
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783229.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Dodo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDhMkFRCVm9ZraVJQbk9ZlwX5oj.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Dodo
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783230.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Domingos Divertidos" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Domingos Divertidos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783231.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Don Gato y su pandilla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnWYwPE7nwqAD1OGLEEXyML5LaH.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Don Gato y su pandilla
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783232.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Dorothy and the Wizard of Oz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zn64KRNWuEauSpkc0d6nANPryd1.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Dorothy and the Wizard of Oz
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783233.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Dragon Quest: La Aventura de Dai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spo9ZaCbIRaU2esyOycSEVZpMe3.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Dragon Quest: La Aventura de Dai
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783234.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Dragones: Los Nueve Reinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZKHqtjyyWq2ilF5tfiX8AalUJe.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Dragones: Los Nueve Reinos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783235.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Total DramaRama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9KAegh5542L8JktkwsZZrdekhe.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Total DramaRama
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783236.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Duck Dodgers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Duck Dodgers
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783237.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Ed Edd y Eddy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BguP5zLyf3AzlTgRRhpXdz9bnS.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Ed Edd y Eddy
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783238.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Campamento Lazlo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCy8pHXCOFjYtmuOmPTfs0nGzTO.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Campamento Lazlo
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783239.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: El asombroso mundo de Gumball" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/al3wD1MqEfwifOBBFnBM5uOl9OT.jpg" group-title="24/7 - ANIMACION", LAT-24/7: El asombroso mundo de Gumball
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783240.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Los Crood: Árbol genealógico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dh3Mh9i7VjENDvTdrYFHiCQKblz.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Los Crood: Árbol genealógico
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783241.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Tom and Jerry Theatricals" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Tom and Jerry Theatricals
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783242.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Golpea duro ¡Hara!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/as6KwcBDWGyovh625L0DF0yZhfc.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Golpea duro ¡Hara!
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783243.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Jellystone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SwSAG48QvvMy8jlAgm3LGt3VGq.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Jellystone
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783244.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Mucha Lucha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w12B6di7moo2otX4X4y3y3gKagz.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Mucha Lucha
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783245.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Enróllate Scooby-Doo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nad2SFuRHKaZFtJu3NeHct4JK25.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Enróllate Scooby-Doo
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783246.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Scooby-Doo dónde estás!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTzUSCtXR77CmGmEHcaxpxu2b4h.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Scooby-Doo dónde estás!
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783247.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: El laboratorio de Dexter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inJJn8lUPWdvdy2h259UnoHWVqC.jpg" group-title="24/7 - ANIMACION", LAT-24/7: El laboratorio de Dexter
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783248.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Agent Binky Pets of the Universe" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Agent Binky Pets of the Universe
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783249.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Presto Escuela de magia" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Presto Escuela de magia
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783250.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: 7 Chances Para..." tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: 7 Chances Para...
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783251.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: 100% Wolf The Book of Hath" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: 100% Wolf The Book of Hath
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783252.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: American Ninja Warrior" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: American Ninja Warrior
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783253.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Art Ninja" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Art Ninja
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783254.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Ba Da Bean" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Ba Da Bean
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783255.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Daniel Tigre y su mundo" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Daniel Tigre y su mundo
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783256.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Petronix Defenders" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikSqUfN0Yldry8PXqqcqTmhsNiQ.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Petronix Defenders
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783257.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Dog Loves Books" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Dog Loves Books
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783258.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Doki" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5CIyJSJUZZAWDgTKlMQ2usaF7n.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Doki
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783259.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: The Demon Headmaster (2019)" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: The Demon Headmaster (2019)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783260.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: El mundo de Luna" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: El mundo de Luna
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783261.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: O Zoo da Zu" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: O Zoo da Zu
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783262.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Franjinha e Milena em Busca da Ciência" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Franjinha e Milena em Busca da Ciência
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783263.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: FriendZSpace" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: FriendZSpace
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783264.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Ghost Force" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Ghost Force
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783265.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Builder Brothers' Dream Factory" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Builder Brothers' Dream Factory
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783266.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Kangaroo Beach" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Kangaroo Beach
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783267.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Héros à moitié" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Héros à moitié
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783268.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: O Hotel Silvestre de Ana Flor" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: O Hotel Silvestre de Ana Flor
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783269.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Jorge el curioso" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Jorge el curioso
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783270.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Lego Friends El nuevo capítulo" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Lego Friends El nuevo capítulo
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783271.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: The Beachbuds" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: The Beachbuds
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783272.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Madagascar Pequeños salvajes" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Madagascar Pequeños salvajes
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783273.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Pat El Perro" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Pat El Perro
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783274.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Mini Beat Power Rockers" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Mini Beat Power Rockers
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783275.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Mundo CurioZoo" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Mundo CurioZoo
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783276.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Open Season Call of Nature" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Open Season Call of Nature
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783277.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Peg + Gato" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Peg + Gato
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783278.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Peppa Pig" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Peppa Pig
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783279.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Pinkalicious Y Peterrific" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Px2hChVZT2tPu1jDhfIs5W2tFt.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Pinkalicious Y Peterrific
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783280.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Il villaggio incantato di Pinocchio" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Il villaggio incantato di Pinocchio
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783281.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Pinocchio and Friends" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYzFuWh1HOoXDN01MiP7MR3uZo2.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Pinocchio and Friends
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783282.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Polly Pocket" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Polly Pocket
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783283.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Pop Paper City" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Pop Paper City
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783284.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Hero Elementary" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Hero Elementary
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783285.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Rainbow Rangers" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Rainbow Rangers
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783286.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: 샤샤&마일로" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: 샤샤&마일로
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783287.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Summer & Todd - L'allegra fattoria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tN6NOSqLgJdr23BTCPgBZxfBdh8.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Summer & Todd - L'allegra fattoria
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783288.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Super Jett" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Super Jett
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783289.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Super Wish" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Super Wish
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783290.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: The Dog Y Pony Show" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: The Dog Y Pony Show
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783291.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Topo Gigio" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Topo Gigio
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783292.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Metegol Underdogs United" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Metegol Underdogs United
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783293.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Weird Waters" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Weird Waters
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783294.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Wow Wow Wubbzy" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Wow Wow Wubbzy
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783295.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Doctora Juguetes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRtuu43sbffvXJYl6hXi37RCDoa.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Doctora Juguetes
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783296.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Los vecinos Green" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4DfHaugLkoz1EdctDdsfxDA5w4.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Los vecinos Green
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783297.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Manny a la obra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zu5jAjazdVxd5D8sjR1dAiYIwSU.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Manny a la obra
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783298.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: 101 Dálmatas: La Serie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWATVXk6oB18QQysBVtJ8UlSqNQ.jpg" group-title="24/7 - ANIMACION", LAT-24/7: 101 Dálmatas: La Serie
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783299.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Calle Dálmatas 101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7PG67FGIsr5bQNYyxV79FBhmFE.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Calle Dálmatas 101
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783300.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: La maravillosa pastelería de Alicia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aih5FDG7Exls6VzsjnMXpkGhVRc.jpg" group-title="24/7 - ANIMACION", LAT-24/7: La maravillosa pastelería de Alicia
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783301.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Recreo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x902aJJPKCcvyJySxfQsBbnjHk.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Recreo
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783302.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Ant-Man (Cortos)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6msLuFmP5MjyDW6x8vXHnFM86li.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Ant-Man (Cortos)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783303.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Avengers Unidos de Marvel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7C5c5Un1zsiAfixa8HEd5ebYmM.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Avengers Unidos de Marvel
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783304.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Avengers Guerras secretas de Marvel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/feLbO7zhhdUPof1KuCJ4Q5ulCTO.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Avengers Guerras secretas de Marvel
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783305.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Billy Dilley" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5Uv3AcLG1Uce4NsqmGBhk7p477.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Billy Dilley
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783306.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Bluey" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDcB2Em0HOJxhG4Uycg0wFt68em.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Bluey
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783307.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Grandes héroes la serie (Cortos)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldG4xXImCPyv5U5gbRmlB8On842.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Grandes héroes la serie (Cortos)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783308.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Grandes héroes La serie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldG4xXImCPyv5U5gbRmlB8On842.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Grandes héroes La serie
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783309.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Los vecinos Green (Cortos)" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Los vecinos Green (Cortos)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783310.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Baymax" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHile3F4B9QO87hPGbPe2kiiorv.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Baymax
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783311.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Cacería de Nueces con Chip y Dale" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6uH3IONWeYe0JEaHMIAF7HbUVj.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Cacería de Nueces con Chip y Dale
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783312.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Cars Aventuras en el camino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z58JCUkxDEm7CdZnE8ThW4xiamC.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Cars Aventuras en el camino
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783313.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Chibiverso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfLdBGHL0qsIqP7IsuMxgTYA890.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Chibiverso
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783314.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Bonkers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZW4rWFY356fBAGNG9SrsyU6WMH.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Bonkers
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783315.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Chip y Dale La vida en el parque" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYTSBnLhzRiDUxzRXSpOaTuGtCg.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Chip y Dale La vida en el parque
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783316.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Descendientes Mundo de villanos (Cortos)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgivS5tul5oV4SrhKmQ0fVc120t.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Descendientes Mundo de villanos (Cortos)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783317.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Dino Ranch" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqCJE65UmNI4mWMvm43TxZXHZO6.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Dino Ranch
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783318.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Disney Junior Pequeñas canciones" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5CIyJSJUZZAWDgTKlMQ2usaF7n.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Disney Junior Pequeñas canciones
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783319.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: El fantasma y Molly McGee" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwzSRD0dI0zGbVHyN6UFAUST8u0.jpg" group-title="24/7 - ANIMACION", LAT-24/7: El fantasma y Molly McGee
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783320.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: El maravilloso mundo de las canciones de Disney Junior" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/1/1-13392558807.jpg" group-title="24/7 - ANIMACION", LAT-24/7: El maravilloso mundo de las canciones de Disney Junior
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783321.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: El Pato Darwing" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gJMSXS0gwM8gDJnzVSITcxbQc.jpg" group-title="24/7 - ANIMACION", LAT-24/7: El Pato Darwing
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783322.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Walt Disney Animation Studios presenta a Goofy en Quédate en casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xAgAFbUPy0zUOHW8tfUjCWKbhs.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Walt Disney Animation Studios presenta a Goofy en Quédate en casa
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783323.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Mundo Perro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RxIl6S83YivjEYg8B8a4xVgMb4.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Mundo Perro
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783324.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Eureka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40ezu5mY6QhcAXjS5UdNZnElc1v.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Eureka
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783325.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Doug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEzGDVHsUlOhU59EKSePobldyIf.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Doug
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783326.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Elena de Ávalor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/se8bejjwLz56qm1gOCLpVjK8iVk.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Elena de Ávalor
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783327.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Elena de Ávalor (Cortos)" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Elena de Ávalor (Cortos)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783328.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Fancy Nancy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGicCEBlQizSoKi5gOldrquDZdt.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Fancy Nancy
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783329.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Firebuds" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toI5fpqKUzJwW61ihpOK395gaXB.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Firebuds
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783330.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: La vida de Dug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9VfCdnAoJvL9DheFsqOPGEwwDV.jpg" group-title="24/7 - ANIMACION", LAT-24/7: La vida de Dug
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783331.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Los 4 Fantásticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZnnVgar6YTZyR8XAkJSvzTSj9.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Los 4 Fantásticos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783332.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Patoaventuras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jalu23TxmERSytx4YsQ0dEuXwa5.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Patoaventuras
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783333.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Patoaventuras (Cortos)" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Patoaventuras (Cortos)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783334.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Gigantosaurus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QE0FexhD5IZ6IaTyHLYzRMYUot.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Gigantosaurus
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783335.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Goldie y Osito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9T8qmeof7eRe2xgXKOWJ6bgIkSK.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Goldie y Osito
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783336.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Gárgolas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zA9IYdJnNOBj6fF0cQwHli2Vzh.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Gárgolas
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783337.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Pecezuelos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gndIzVDEwK3b3xeNSittLNpbEz5.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Pecezuelos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783338.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Guau qué amigo!" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Guau qué amigo!
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783339.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Los 3 de abajo: Cuentos de Arcadia" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Los 3 de abajo: Cuentos de Arcadia
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783340.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: 44 Gatos" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: 44 Gatos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783341.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: A Little Help with Carol Burnett" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: A Little Help with Carol Burnett
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783342.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Alien TV" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Alien TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783343.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Larga vida al rey Julien" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Larga vida al rey Julien
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783344.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Viva el rey Julien" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Viva el rey Julien
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783345.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Alvinnn Y las ardillas" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Alvinnn Y las ardillas
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783346.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Angry Birds Toons" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Angry Birds Toons
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783347.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Angry Birds: Locuras de Verano" tvg-logo="noimage.png" group-title="24/7 - ANIMACION", LAT-24/7: Angry Birds: Locuras de Verano
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783348.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Yakitori Soldados de la desdicha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZXORAMSEg0UoyvYfb1nObn6kiE.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Yakitori Soldados de la desdicha
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783349.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Vera Deseos maravillosos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koFd1o4Ftga92bfiA38YtupD6GY.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Vera Deseos maravillosos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783350.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Karmas World Music Videos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdHJ3B1mOj5djEw883rSpX5pZ4W.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Karmas World Music Videos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783351.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Violet Evergarden" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAJwxbgnGYowmvIyr1R2pJlg8ls.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Violet Evergarden
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783352.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Vera Cuentos fantásticos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97zzdYwoQUYJmtk0vz4hnG7Xpzx.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Vera Cuentos fantásticos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783353.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Vera Canciones del Corazón" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eh1p7DRXf095r2esChrKkKn9Bwm.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Vera Canciones del Corazón
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783354.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Vera Amigos Mágicos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iW6vkAvQSItTm20BQYETqFMSAiD.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Vera Amigos Mágicos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783355.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Una sonrisa roja como la sangre: Cuentos de los hermanos Grimm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiek30wIfp96UR07jkCdrtlOx4x.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Una sonrisa roja como la sangre: Cuentos de los hermanos Grimm
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783356.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Unorthodox" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqJPle3lJ9fCLyxA0wNewOgw5iF.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Unorthodox
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783357.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Ultramarine Magmell" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6J02MwbwxAJt3ntr9jzUPh9V8xe.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Ultramarine Magmell
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783358.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Un vampiro en el jardín" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95ShtCC71Qs75JyjA4S7epY9Zqw.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Un vampiro en el jardín
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783359.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Trese" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNYPSo9nhrLyy453s5SsC0MCTuz.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Trese
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783360.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Thermae Romae Novae" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Thermae Romae Novae
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783361.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Supermonstruos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DCVdlFRX4W6SvyedPcZiRMyRCs.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Supermonstruos
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783362.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Supermonstruos Una fiesta monstruosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2oGxTXmzcN2sgktaQS1MKtVN6o.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Supermonstruos Una fiesta monstruosa
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783363.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Bob Esponja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAfgwXs9HCEDnzPpBHVyrUeb8xi.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Bob Esponja
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783364.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Calle CoComelon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5SRYNMkc8NOxQe0E0jNUrdxOR6.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Calle CoComelon
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783365.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Masha y el Oso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwvNu121w5zGWA5i7d7gDBrLgmN.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Masha y el Oso
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783366.ts
+
+#EXTINF:-1 tvg-id="LAT-24/7: Patrulla de cachorros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTDo8zoo3wOW789rWYfHT83ufJ9.jpg" group-title="24/7 - ANIMACION", LAT-24/7: Patrulla de cachorros
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/783367.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS AR" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV SPORTS AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/69547.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 AR" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV SPORTS 2 AR
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/69549.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS CH" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV SPORTS CH
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/69552.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS EC" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV SPORTS EC
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/69557.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS PLUS EC" tvg-logo="https://i.ibb.co/QDKfDMG/ds.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV SPORTS PLUS EC
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/69559.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS CO" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV SPORTS CO
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/69567.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 2 CO" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV SPORTS 2 CO
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/69568.ts
+
+#EXTINF:-1 tvg-id="DIRECTV SPORTS URU" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV SPORTS URU
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/69570.ts
+
+#EXTINF:-1 tvg-id="DIRECTV Sports Per" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-", DIRECTV Sports Per
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/151274.ts
+
+#EXTINF:-1 tvg-id="MULTIDEPORTES INFO" tvg-logo="https://i.ibb.co/Gs3TQvV/movistar-es-multideporte.png" group-title="DEPORTES ESPAÑA", MULTIDEPORTES INFO
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327972.ts
+
+#EXTINF:-1 tvg-id="VAMOS SD" tvg-logo="https://i.postimg.cc/90BTzn1L/images-q-tbn-ANd9Gc-Tc-C2e7qi3GWsyhz-O905v6Ifqm-K79icz-KGi-Mg-s.png" group-title="DEPORTES ESPAÑA", VAMOS SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327931.ts
+
+#EXTINF:-1 tvg-id="VAMOS HD" tvg-logo="https://i.postimg.cc/90BTzn1L/images-q-tbn-ANd9Gc-Tc-C2e7qi3GWsyhz-O905v6Ifqm-K79icz-KGi-Mg-s.png" group-title="DEPORTES ESPAÑA", VAMOS HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327926.ts
+
+#EXTINF:-1 tvg-id="M+ VAMOS FHD" tvg-logo="https://i.postimg.cc/sxNBWh5d/1200px-Vamos-por-Movistar-Plus-2023-Logo-svg.png" group-title="DEPORTES ESPAÑA", M+ VAMOS FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327965.ts
+
+#EXTINF:-1 tvg-id="M+ VAMOS FHD (FIBRA)" tvg-logo="https://i.postimg.cc/90BTzn1L/images-q-tbn-ANd9Gc-Tc-C2e7qi3GWsyhz-O905v6Ifqm-K79icz-KGi-Mg-s.png" group-title="DEPORTES ESPAÑA", M+ VAMOS FHD (FIBRA)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327949.ts
+
+#EXTINF:-1 tvg-id="M+ VAMOS FHD (OP B)" tvg-logo="https://i.postimg.cc/90BTzn1L/images-q-tbn-ANd9Gc-Tc-C2e7qi3GWsyhz-O905v6Ifqm-K79icz-KGi-Mg-s.png" group-title="DEPORTES ESPAÑA", M+ VAMOS FHD (OP B)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327968.ts
+
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327974.ts
+
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327935.ts
+
+#EXTINF:-1 tvg-id="M+ Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327976.ts
+
+#EXTINF:-1 tvg-id="M+  DEPORTES 1 SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+  DEPORTES 1 SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327941.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES 1 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 1 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327952.ts
+
+#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 2 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327939.ts
+
+#EXTINF:-1 tvg-id="M+ Deportes 2" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 2 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327977.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES 3 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 3 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327933.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES 3 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 3 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327936.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES 4 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 4 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327947.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES 4 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 4 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327961.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES  5 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES  5 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327942.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES 5 FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 5 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327932.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES 6 HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 6 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327940.ts
+
+#EXTINF:-1 tvg-id="M+ DEPORTES 6 Fhd" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES ESPAÑA", M+ DEPORTES 6 Fhd
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327937.ts
+
+#EXTINF:-1 tvg-id="VAMOS 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="DEPORTES ESPAÑA", VAMOS 3
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327983.ts
+
+#EXTINF:-1 tvg-id="M+ GOLF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES ESPAÑA", M+ GOLF HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327971.ts
+
+#EXTINF:-1 tvg-id="M+ GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png" group-title="DEPORTES ESPAÑA", M+ GOLF FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327944.ts
+
+#EXTINF:-1 tvg-id="M+ GOLF 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="DEPORTES ESPAÑA", M+ GOLF 2 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327959.ts
+
+#EXTINF:-1 tvg-id="M+ GOLF 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="DEPORTES ESPAÑA", M+ GOLF 2 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327970.ts
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD" tvg-logo="https://i.postimg.cc/wB8KvYx5/eurosport.png" group-title="DEPORTES ESPAÑA", EUROSPORT 1 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327938.ts
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.postimg.cc/wB8KvYx5/eurosport.png" group-title="DEPORTES ESPAÑA", EUROSPORT FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327982.ts
+
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" tvg-logo="https://i.postimg.cc/s2cnRkMB/eurosport2.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327964.ts
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.postimg.cc/s2cnRkMB/eurosport2.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327954.ts
+
+#EXTINF:-1 tvg-id="TELEDEPORTES" tvg-logo="https://i.postimg.cc/9MP2RkGB/images-q-tbn-ANd9Gc-T6sees-DP-3BKz-If6u4Vdnzp-RSs7v6hppr0kg-s.png" group-title="DEPORTES ESPAÑA", TELEDEPORTES
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327966.ts
+
+#EXTINF:-1 tvg-id="TELEDEPORTES HD" tvg-logo="https://i.postimg.cc/9MP2RkGB/images-q-tbn-ANd9Gc-T6sees-DP-3BKz-If6u4Vdnzp-RSs7v6hppr0kg-s.png" group-title="DEPORTES ESPAÑA", TELEDEPORTES HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327953.ts
+
+#EXTINF:-1 tvg-id="TELEDEPORTES FHD" tvg-logo="https://i.postimg.cc/9MP2RkGB/images-q-tbn-ANd9Gc-T6sees-DP-3BKz-If6u4Vdnzp-RSs7v6hppr0kg-s.png" group-title="DEPORTES ESPAÑA", TELEDEPORTES FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327981.ts
+
+#EXTINF:-1 tvg-id="MUNDOTORO HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="DEPORTES ESPAÑA", MUNDOTORO HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327973.ts
+
+#EXTINF:-1 tvg-id="MUNDOTORO HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="DEPORTES ESPAÑA", MUNDOTORO HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327978.ts
+
+#EXTINF:-1 tvg-id="ONETORO FHD" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="DEPORTES ESPAÑA", ONETORO FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327969.ts
+
+#EXTINF:-1 tvg-id="EL TORO TV" tvg-logo="noimage.png" group-title="DEPORTES ESPAÑA", EL TORO TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327943.ts
+
+#EXTINF:-1 tvg-id="CAZA Y PESCA HD" tvg-logo="https://i.postimg.cc/prpbmh2S/image.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327929.ts
+
+#EXTINF:-1 tvg-id="CAZA Y PESCA FHD" tvg-logo="https://i.postimg.cc/prpbmh2S/image.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327930.ts
+
+#EXTINF:-1 tvg-id="IBERALIA 100% PESCA FHD" tvg-logo="https://i.postimg.cc/Vvn9WwWr/227650.png" group-title="DEPORTES ESPAÑA", IBERALIA 100% PESCA FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327951.ts
+
+#EXTINF:-1 tvg-id="IBERALIA TV HD" tvg-logo="https://i.postimg.cc/8zfqf3GJ/images-q-tbn-ANd9Gc-Qg-IEc9x0CVSPB4k-Hw-Yzz-JF8KPPKIa-Pm-CMVq-A-s.png" group-title="DEPORTES ESPAÑA", IBERALIA TV HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327979.ts
+
+#EXTINF:-1 tvg-id="IBERALIA TV FHD" tvg-logo="https://i.postimg.cc/8zfqf3GJ/images-q-tbn-ANd9Gc-Qg-IEc9x0CVSPB4k-Hw-Yzz-JF8KPPKIa-Pm-CMVq-A-s.png" group-title="DEPORTES ESPAÑA", IBERALIA TV FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327960.ts
+
+#EXTINF:-1 tvg-id="IBERALIA 100% CAZA FHD" tvg-logo="https://i.postimg.cc/8zfqf3GJ/images-q-tbn-ANd9Gc-Qg-IEc9x0CVSPB4k-Hw-Yzz-JF8KPPKIa-Pm-CMVq-A-s.png" group-title="DEPORTES ESPAÑA", IBERALIA 100% CAZA FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327934.ts
+
+#EXTINF:-1 tvg-id="CAZAVISION SD" tvg-logo="https://i.postimg.cc/XYQvBF3n/image.png" group-title="DEPORTES ESPAÑA", CAZAVISION SD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327963.ts
+
+#EXTINF:-1 tvg-id="CAZAVISION HD" tvg-logo="https://i.postimg.cc/SxcghpqX/4T7UYZXO-gy-K5Xu9N86B4nmm0XDOO5hv51x9cmgvg-XBul93Rgaj5Sl3Fl-Jer-F0E8LE.png" group-title="DEPORTES ESPAÑA", CAZAVISION HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327946.ts
+
+#EXTINF:-1 tvg-id="REAL MADRID TV" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2023/10/real-madrid-logo-01-freelogovectors.net_.png" group-title="DEPORTES ESPAÑA", REAL MADRID TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327980.ts
+
+#EXTINF:-1 tvg-id="REAL MADRID FHD" tvg-logo="https://i.postimg.cc/sXJXdx0z/real-madrid-logo-01-freelogovectors-net.png" group-title="DEPORTES ESPAÑA", REAL MADRID FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327957.ts
+
+#EXTINF:-1 tvg-id="BETIS TV" tvg-logo="https://i.postimg.cc/bwFkWCSq/images-q-tbn-ANd9Gc-Tz-Uc8z-Uhk-WDh-Kv-K-VU3j2UKIori-EKTqjdrg-Q-s.png" group-title="DEPORTES ESPAÑA", BETIS TV
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327922.ts
+
+#EXTINF:-1 tvg-id="MY PADEL TV HD (OFFLINE)" tvg-logo="https://images.samsung.com/is/image/samsung/assets/es/tvs/smart-tv/samsung-tv-plus/MyPadelTV_1000x1000_Circle.png?$296_164_PNG" group-title="DEPORTES ESPAÑA", MY PADEL TV HD (OFFLINE)
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327924.ts
+
+#EXTINF:-1 tvg-id="DAZN ACB" tvg-logo="noimage.png" group-title="DEPORTES ESPAÑA", DAZN ACB
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/717975.ts
+
+#EXTINF:-1 tvg-id="RALLY TV FHD" tvg-logo="https://i.postimg.cc/jS9nZDB7/images-q-tbn-ANd9Gc-Ss-Yo-Lr1q3-h6Jo21Ag-DZhy-K62VNC6Ed-YRb-Ag-s.png" group-title="DEPORTES ESPAÑA", RALLY TV FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/327923.ts
+
+#EXTINF:-1 tvg-id="M+ Vamos 2 HD" tvg-logo="https://i.postimg.cc/c4B2nMmh/Vamos-2-por-Movistar-removebg-preview.png" group-title="DEPORTES ESPAÑA", M+ Vamos 2 HD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/750196.ts
+
+#EXTINF:-1 tvg-id="M+ Vamos 2 FHD" tvg-logo="https://i.postimg.cc/c4B2nMmh/Vamos-2-por-Movistar-removebg-preview.png" group-title="DEPORTES ESPAÑA", M+ Vamos 2 FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/750197.ts
+
+#EXTINF:-1 tvg-id="M+ Moto ADV FHD" tvg-logo="https://i.postimg.cc/FR66Kg6J/images-q-tbn-ANd9Gc-RXIHXs-3n-Sa-U-Bzo-8-2ULFe-N7vh7JORB8XQ-s.jpg" group-title="DEPORTES ESPAÑA", M+ Moto ADV FHD
+http://duketv.org:8080/live/juan_ferez/Ferez2023J/750206.ts
+
